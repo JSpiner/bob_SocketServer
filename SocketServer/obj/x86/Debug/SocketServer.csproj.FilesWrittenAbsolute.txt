@@ -1,0 +1,6 @@
+/Users/JSpiner/Projects/SocketServer/SocketServer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/JSpiner/Projects/SocketServer/SocketServer/bin/Debug/SocketServer.exe.mdb
+/Users/JSpiner/Projects/SocketServer/SocketServer/bin/Debug/SocketServer.exe
+/Users/JSpiner/Projects/SocketServer/SocketServer/obj/x86/Debug/SocketServer.exe
+/Users/JSpiner/Projects/SocketServer/SocketServer/obj/x86/Debug/SocketServer.exe.mdb
+/Users/JSpiner/Projects/SocketServer/SocketServer/bin/Debug/System.Net.Json.dll
